@@ -1,6 +1,6 @@
 an opinionated nvim colorscheme
 
-https://github.com/haolian9/zongzi/assets/6236829/37a92aef-8b57-4e26-9311-d9743bf939c3
+![](https://user-images.githubusercontent.com/6236829/253806385-37a92aef-8b57-4e26-9311-d9743bf939c3.jpg)
 (that's how it looks in my terminal with solarized-dark theme)
 
 ## features, flavors
